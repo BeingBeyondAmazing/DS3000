@@ -19,3 +19,4 @@ As can be seen in the above figure, the histogram roughly follows a symmetrical,
 As can be seen in the above figure, there are no clear outliers in the residuals, and they generally cluster closer to 0. Along with this, we see no uniform pattern in the plot of residuals, a good sign for our model. 
 
 ## Discussion:
+For our first model, we clearly saw that picking ORTG, DRTG, and TO% of a team were very strong indicators of how good a team was. We were able to see this, as our model quite accurately predicted how good a team would be with the data we selected.

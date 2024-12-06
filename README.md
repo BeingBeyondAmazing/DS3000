@@ -11,4 +11,6 @@ In this project, we will design an algorithm to most efficiently predict which t
 ### Fig 1:
 <img width="997" alt="Screenshot 2024-12-06 at 3 45 04 PM" src="https://github.com/user-attachments/assets/a011610f-2f8b-4094-97fa-7e9e2f8a9068">
 
+As can be seen in the above figure,  
+
 ## Discussion:

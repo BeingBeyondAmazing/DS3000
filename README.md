@@ -11,6 +11,6 @@ In this project, we will design an algorithm to most efficiently predict which t
 ### Fig 1:
 <img width="687" alt="Screenshot 2024-12-06 at 3 49 57 PM" src="https://github.com/user-attachments/assets/8a75320f-f6f4-4aaa-a8e2-b2f5ddccab93">
 
-As can be seen in the above figure,  
+As can be seen in the above figure, the histogram roughly follows a symmetrical, normal distribution, ideal for a regression model. Due to the majority of the residuals being close to 0, this indicates that our models predictions were quite close to the actual values for most of the data, although at times the observed value was slighly larger than the predicted value.    
 
 ## Discussion:
